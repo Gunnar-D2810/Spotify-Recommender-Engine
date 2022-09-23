@@ -5,7 +5,7 @@
 (https://miro.medium.com/max/1400/1*l6ExH_ZDvFLkQQzaVVL3uQ.gif))
 https://miro.medium.com/max/1400/1*l6ExH_ZDvFLkQQzaVVL3uQ.gif
 
-
+![Banner](https://miro.medium.com/max/1400/1*l6ExH_ZDvFLkQQzaVVL3uQ.gif)
 
 
 ![Banner](https://github.com/RodrigoFranco79/UCI-Air-Quality-Analysis-Prediction/blob/main/header.gif)
