@@ -1,9 +1,8 @@
-# Spotify_Recommender_Engine
+# Spotify Recommender System
 <!-- Add banner here -->
 ![Banner]([https://github.com/RodrigoFranco79/UCI-Air-Quality-Analysis-Prediction/blob/main/header.gif](https://developer.spotify.com/assets/branding-guidelines/using-our-logo.png))
 
-# UCI-Air-Quality-EDA EDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDIT
-EDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDIT
+# UCI-Air-Quality-EDA 
 <!-- Add buttons here -->
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
@@ -16,6 +15,8 @@ EDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDITEDIT
 
 # Project Description
 In this project , Rodrigo Franco and Gunnar David have done an in-depth analysis and visualization on the UCI air quality dataset (https://archive.ics.uci.edu/ml/datasets/air+quality) .The goal is to find the patterns and relationships in the dataset.
+
+{google_slides}https://docs.google.com/presentation/d/1lW1kWqi6oPqUUSjcT9B-taMpl7bawvUC/edit?usp=sharing&ouid=107606308453062899919&rtpof=true&sd=true{/google_slides}
 
 **In this notebook, you'll find:**
 - Intro to the dataset
