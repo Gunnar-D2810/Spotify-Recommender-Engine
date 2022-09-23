@@ -16,7 +16,9 @@
 # Project Description
 In this project , Rodrigo Franco and Gunnar David have done an in-depth analysis and visualization on the UCI air quality dataset (https://archive.ics.uci.edu/ml/datasets/air+quality) .The goal is to find the patterns and relationships in the dataset.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR9GqqbOkIC83DHuze1IeMtk91g7pWanbSIB9e3bkmpDn69faab1yyb8zJrnVPVqH70Z-TS0j23BGNq/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+{google_docs}<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR9GqqbOkIC83DHuze1IeMtk91g7pWanbSIB9e3bkmpDn69faab1yyb8zJrnVPVqH70Z-TS0j23BGNq/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>{/google_docs}
+
 
 **In this notebook, you'll find:**
 - Intro to the dataset
