@@ -1,6 +1,8 @@
 # Spotify Recommender System
 <!-- Add banner here -->
-![Banner]([https://developer.spotify.com/assets/branding-guidelines/using-our-logo.png](https://developer.spotify.com/assets/branding-guidelines/using-our-logo.png])
+![Banner](https://developer.spotify.com/assets/branding-guidelines/using-our-logo.png](https://developer.spotify.com/assets/branding-guidelines/using-our-logo.png)
+![Banner](https://github.com/RodrigoFranco79/UCI-Air-Quality-Analysis-Prediction/blob/main/header.gif)
+
 
 # UCI-Air-Quality-EDA 
 <!-- Add buttons here -->
