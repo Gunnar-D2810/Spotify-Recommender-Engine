@@ -1,16 +1,6 @@
 # Spotify Recommender System
 <!-- Add banner here -->
-![Banner](https://developer.spotify.com/assets/branding-guidelines/using-our-logo.png](https://developer.spotify.com/assets/branding-guidelines/using-our-logo.png)
-![Banner]([https://github.com/RodrigoFranco79/UCI-Air-Quality-Analysis-Prediction/blob/main/header.gif]
-(https://miro.medium.com/max/1400/1*l6ExH_ZDvFLkQQzaVVL3uQ.gif))
-https://miro.medium.com/max/1400/1*l6ExH_ZDvFLkQQzaVVL3uQ.gif
-
 ![Banner](https://miro.medium.com/max/1400/1*l6ExH_ZDvFLkQQzaVVL3uQ.gif)
-
-
-![Banner](https://github.com/RodrigoFranco79/UCI-Air-Quality-Analysis-Prediction/blob/main/header.gif)
-# UCI-Air-Quality-EDA 
-<!-- Add buttons here -->
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
 ![GitHub last commit](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)
@@ -21,7 +11,10 @@ https://miro.medium.com/max/1400/1*l6ExH_ZDvFLkQQzaVVL3uQ.gif
 <!-- Describe your project in brief -->
 
 # Project Description
-In this project , Rodrigo Franco and Gunnar David have done an in-depth analysis and visualization on the UCI air quality dataset (https://archive.ics.uci.edu/ml/datasets/air+quality) .The goal is to find the patterns and relationships in the dataset.
+In this project , a recommender system is build with training data based on webscraped playlist data done an in-depth analysis and visualization on the UCI air quality dataset (https://archive.ics.uci.edu/ml/datasets/air+quality) .The goal is to find the patterns and relationships in the dataset.
+
+
+{google_docs}https://docs.google.com/presentation/d/1QBd54fxYar0gMa1_MasE2Q6lwenVpX1VMHOG3qiWkwQ/edit?usp=sharing{/google_docs}
 
 
 {google_docs}<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR9GqqbOkIC83DHuze1IeMtk91g7pWanbSIB9e3bkmpDn69faab1yyb8zJrnVPVqH70Z-TS0j23BGNq/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>{/google_docs}
