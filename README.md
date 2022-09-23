@@ -14,7 +14,7 @@
 In this project , a recommender system is build with training data based on webscraped playlist data done an in-depth analysis and visualization on the UCI air quality dataset (https://archive.ics.uci.edu/ml/datasets/air+quality) .The goal is to find the patterns and relationships in the dataset.
 
 [embed]https://docs.google.com/presentation/d/1QBd54fxYar0gMa1_MasE2Q6lwenVpX1VMHOG3qiWkwQ/edit?usp=sharing[/embed]
-{google_docs}"https://docs.google.com/presentation/d/1QBd54fxYar0gMa1_MasE2Q6lwenVpX1VMHOG3qiWkwQ/edit?usp=sharing"{/google_docs}
+{google_docs}(https://docs.google.com/presentation/d/1QBd54fxYar0gMa1_MasE2Q6lwenVpX1VMHOG3qiWkwQ/edit?usp=sharing){/google_docs}
 {google_docs}https://docs.google.com/presentation/d/1QBd54fxYar0gMa1_MasE2Q6lwenVpX1VMHOG3qiWkwQ/edit?usp=sharing|https:yes{/google_docs}
 
 {google_docs}<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR9GqqbOkIC83DHuze1IeMtk91g7pWanbSIB9e3bkmpDn69faab1yyb8zJrnVPVqH70Z-TS0j23BGNq/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>{/google_docs}
